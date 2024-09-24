@@ -1,19 +1,12 @@
 {
   "dependencies": {
     "com.ptc.vuforia.engine": {
-      "version": "file:com.ptc.vuforia.engine-10.18.4.tgz",
+      "version": "file:com.ptc.vuforia.engine-10.25.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
-        "com.unity.ugui": "1.0.0"
-      }
-    },
-    "com.siccity.gltfutility": {
-      "version": "file:/Users/gaohaoting/Desktop/GLTFUtility-master",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
+        "com.unity.ugui": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
       }
     },
     "com.unity.ai.navigation": {
@@ -141,9 +134,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"

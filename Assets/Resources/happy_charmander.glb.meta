@@ -7,22 +7,13 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 768a5a18fd6eb914f980bf85dd7b34ec, type: 3}
+  script: {fileID: 11500000, guid: ffc50575ec136b641aa1a6d82c6cbbe6, type: 3}
   importSettings:
     materials: 1
     shaderOverrides:
-      metallic: {fileID: 4800000, guid: 057d08f5d01be134593d0fe0e40c1759, type: 3}
-      metallicBlend: {fileID: 4800000, guid: 7258d825fa9aac6439f21eb173b880c6, type: 3}
-      specular: {fileID: 4800000, guid: d28fc76bfd3057e4c8f1c6f0b91590c8, type: 3}
-      specularBlend: {fileID: 4800000, guid: 475158e3052e5c4488fa32f8df9d7be7, type: 3}
-    animationSettings:
-      looping: 0
-      frameRate: 24
-      interpolationMode: -1
-      compressBlendShapeKeyFrames: 1
-      useLegacyClips: 0
-    generateLightmapUVs: 0
-    hardAngle: 88
-    angleError: 8
-    areaError: 15
-    packMargin: 4
+      metallic: {fileID: 4800000, guid: 768dbf386ea767546887af7efc7d48bf, type: 3}
+      metallicBlend: {fileID: 4800000, guid: e01070acf5be83547a01979058a32084, type: 3}
+      specular: {fileID: 4800000, guid: 4fe4ddd5c6a3dd24d8a818bd811cbfc7, type: 3}
+      specularBlend: {fileID: 4800000, guid: 35d39d65b50f0754bbe6153e154ea627, type: 3}
+    useLegacyClips: 0
+    interpolationMode: -1
